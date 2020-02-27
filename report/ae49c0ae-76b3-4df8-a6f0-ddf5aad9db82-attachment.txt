@@ -1,0 +1,10 @@
+base.py                     12 INFO     正在初始化driver对象, driver: <appium.webdriver.webdriver.WebDriver (session="c4adc84f-d303-4b94-87ea-883075e10f19")>
+base.py                     30 INFO     正在准备点击：('id', 'com.bjcsxq.chat.carfriend:id/bt_no') 元素
+base.py                     23 INFO     正在查找：<RootLogger root (INFO)> 元素，等待时间：30 访问频率:0.5
+base.py                     32 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/bt_no'):元素点击完成
+base.py                     30 INFO     正在准备点击：('id', 'com.bjcsxq.chat.carfriend:id/mine_image') 元素
+base.py                     23 INFO     正在查找：<RootLogger root (INFO)> 元素，等待时间：30 访问频率:0.5
+base.py                     32 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/mine_image'):元素点击完成
+base.py                     30 INFO     正在准备点击：('id', 'com.bjcsxq.chat.carfriend:id/mine_username_tv') 元素
+base.py                     23 INFO     正在查找：<RootLogger root (INFO)> 元素，等待时间：30 访问频率:0.5
+base.py                     32 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/mine_username_tv'):元素点击完成

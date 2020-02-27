@@ -1,0 +1,8 @@
+login001:
+  phone: "123"
+  pwd: ""
+  expect: "false"
+login002:
+  phone: ""
+  pwd: "123"
+  expect: "false"

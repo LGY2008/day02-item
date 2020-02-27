@@ -1,0 +1,16 @@
+page_login.py               39 INFO     正在调用登录业务方法，手机号：123 密码：
+base.py                     23 INFO     正在查找：<RootLogger root (INFO)> 元素，等待时间：30 访问频率:0.5
+base.py                     39 INFO     正在对：('id', 'com.bjcsxq.chat.carfriend:id/login_phone_et')元素执行清空操作
+base.py                     41 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/login_phone_et')元素执行清空操作完成
+base.py                     43 INFO     正对：('id', 'com.bjcsxq.chat.carfriend:id/login_phone_et')元素输入:123操作！
+base.py                     45 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/login_phone_et')元素输入:123操作完成！
+base.py                     23 INFO     正在查找：<RootLogger root (INFO)> 元素，等待时间：30 访问频率:0.5
+base.py                     39 INFO     正在对：('id', 'com.bjcsxq.chat.carfriend:id/login_pwd_et')元素执行清空操作
+base.py                     41 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/login_pwd_et')元素执行清空操作完成
+base.py                     43 INFO     正对：('id', 'com.bjcsxq.chat.carfriend:id/login_pwd_et')元素输入:操作！
+base.py                     45 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/login_pwd_et')元素输入:操作完成！
+base.py                     30 INFO     正在准备点击：('id', 'com.bjcsxq.chat.carfriend:id/login_btn') 元素
+base.py                     23 INFO     正在查找：<RootLogger root (INFO)> 元素，等待时间：30 访问频率:0.5
+base.py                     32 INFO     ('id', 'com.bjcsxq.chat.carfriend:id/login_btn'):元素点击完成
+base.py                     23 INFO     正在查找：<RootLogger root (INFO)> 元素，等待时间：30 访问频率:0.5
+base.py                     51 INFO     正在获取('id', 'com.bjcsxq.chat.carfriend:id/login_btn')元素的:clickable属性值，获取的结果为：false
